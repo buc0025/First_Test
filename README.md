@@ -26,3 +26,11 @@ Below are bullets and numbers:
 - Bullet 2
 1. Number One
 2. Number Two
+
+## Image
+
+<img src="images/recipe_app_main.png" width="100">
+
+![](images/recipe_app_main.png)
+
+
